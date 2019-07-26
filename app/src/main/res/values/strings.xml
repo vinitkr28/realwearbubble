@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RealwearBubble</string>
+    <string name="display_content_modify_search">Modify Search</string>
+    <string name="display_content_show_more">Show More...</string>
+    <string name="display_content_search_results_page">Search Results: Page 1 of&#160;</string>
+</resources>
